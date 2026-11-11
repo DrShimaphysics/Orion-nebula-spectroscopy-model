@@ -1,5 +1,3 @@
-# Orion-nebula-spectroscopy-model
-Educational Strömgren sphere and synthetic optical spectrum model for the Orion Nebula (M42)
 # Orion Nebula (M42) Photoionization & Synthetic Spectrum Explorer
 
 A lightweight, reproducible educational model illustrating Strömgren sphere physics, radial ionization stratification, and representative optical emission-line spectra for the Orion Nebula (M42) ionized by the Trapezium star $\theta^1$ Ori C.
